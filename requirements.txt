@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+sentence-transformers
+torch
+torchvision
+google-generativeai
